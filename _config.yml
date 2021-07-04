@@ -14,8 +14,9 @@ author: Taehyeon Kim
 navbar-links:
   Career: "career"
   Publication: "publication"
-  Blog: "blog"
-  Project: "project"
+#  Blog: "blog"
+#  Project: "project"
+  CV: "https://Kthyeon.github.io/Taehyeon_CV.pdf"
   GitHub: "https://github.com/Kthyeon"
   Google Scholar: "https://scholar.google.co.kr/citations?user=wDEaSpwAAAAJ&hl=en"
 

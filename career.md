@@ -54,10 +54,10 @@ title: Research Career
 
 # Honor and Award
 
-* 8th Award in NeurIPS 2020 Black-Box Optimization Challenge
+* 8th Award in **NeurIPS 2020** Black-Box Optimization Challenge
 	* [BBO-challenge homepage](https://bbochallenge.com/)
 	* Subjects: Auto-ML, Bayesian Learning, Hyperparameter Optimization.
-* 2nd & 3rd Awards in NeurIPS 2019 MicroNet Challenge, CIFAR-100 Track.
+* 2nd & 3rd Awards in **NeurIPS 2019** MicroNet Challenge, CIFAR-100 Track.
   * [MicroNet-challenge homepage](https://micronet-challenge.github.io/)
   * Subjects: Image Classification, Model Compression.
 
