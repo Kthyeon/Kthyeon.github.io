@@ -4,10 +4,10 @@
 title: PhD. Candidate Taehyeon Kim
 
 # [수정필요] 간단한 사이트 설명
-description: Personal Blog
+description: Taehyeon Kim's personal Blog
 
 # [수정필요] 웹페이지 아래에 나오는 웹사이트 저자 이름
-author: Seokho Son
+author: Taehyeon Kim
 
 # [조건부수정] 네비게이션 바에 포함되는 항목 (명칭 수정, 추가, 삭제 가능)
 # 예를 들어, ETRI 라는 항목을 네비게이션 바에 추가하고 싶은 경우, etri.md 파일 생성 후 ETRI: "etri" 라고 지정.
@@ -27,7 +27,7 @@ round-avatar: true
 
 # title text 대신 이미지 사용하고 싶은 경우 설정
 # then specify the following parameter
-#title-img: "/assets/img/seokho-square.jpg"
+#title-img: "/assets/img/taehyeon.jpg"
 
 
 # --- Footer options --- #
