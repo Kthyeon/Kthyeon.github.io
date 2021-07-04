@@ -1,10 +1,10 @@
-
 ---
 layout: page
 title: Research Career
 ---
 
 <br/>
+
 
 
 # Research Experience
@@ -21,21 +21,35 @@ title: Research Career
 
 * Project (ongoing): _**Federated Learning framework**_
   * Role: Research project manager position
+  * April 2021 - Present
   * Develop the federated learning Algorithm  for the deployment of edge devices
-  * Collaboration with Electornics and Telecommunications Research Institute\,(ETRI)	
+  * Collaboration with Electornics and Telecommunications Research Institute (ETRI)	
 * Project: _**Lightweight object detection models**_
   * Role: Research project manager position
+  * October 2020 - December 2020
   * Designed and developed storage- and computation-efficient object detection models
-  * Collaboration with Electornics and Telecommunications Research Institute\,(ETRI)	
+  * Collaboration with Electornics and Telecommunications Research Institute (ETRI)	
 * Project: _**Tiny ML  framework**_
   * Role: Research project manager position
+  * September 2020 - November 2020
   * Developed the image classification & object detection source code for the deployment to test-bed (Nvidia-Jetson)
-  * Collaboration with Electornics and Telecommunications Research Institute\,(ETRI)
+  * Collaboration with Electornics and Telecommunications Research Institute (ETRI)
 * Project: _**Dynamic control of exoskeleton suit dimensions for paraplegics**_
   * Role: Research assistant
+  * April 2020 - December 2020
   * Developed the automated machine learning algorithm for user- and task-aware dynamic control of exoskeleton suit dimensions for paraplegics
   * Venture Research Program for Graduate and Ph. D. students, KAIST
- 
+* Project: _**AutoML framework**_
+  * Role: Research project manager position
+  * January 2020 - December 2020
+  * Developed the automated hyper-parameter search algorithm for ML algorithms
+  * Collaboration with Electornics and Telecommunications Research Institute (ETRI)
+* Project: _**Lightweight Deep Neural Networks**_
+  * Role: Research assistant
+  * April 2018 - December 2019
+  * Developed the efficient models and training algorithms for Edge Devices
+  * Collaboration with Electornics and Telecommunications Research Institute (ETRI)
+
 <br/>
 
 # Honor and Award
