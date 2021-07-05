@@ -9,7 +9,7 @@ cover-img: /assets/img/brick-background.jpg
 
 ## About me
 
-Hello, this is **Taehyeon Kim**. I'm a **Ph D Candidate** in Optimization and Statistical Inference Lab [OSI](http://osi.kaist.ac.kr/) (Advisor: Se-young Yun, KAIST). Junior researcher!! haha:) During 6 months (2021.06 - 2021.12), I'm a **Computer Vision and Machine Learning R&D Intern for Autonomous Drivingreporting** in **Qualcoom**.
+Hello, this is **Taehyeon Kim**. I'm a **Ph D Candidate** in Optimization and Statistical Inference Lab [OSI](http://osi.kaist.ac.kr/) (Advisor: Se-young Yun, KAIST). Junior researcher!! haha:) During 6 months (2021.06 - 2021.12), I'm a **Computer Vision and Machine Learning R&D Intern for Autonomous Drivingreporting** in [Qualcoom](https://www.qualcomm.com/research/artificial-intelligence).
 
 My research interests lie in **optimization** for training deep neural networks, automating the tasks of applying machine learning to real-world problems (**AutoML**), **Trustworthy and real-world** AI/ML challenges, and train an algorithm across multiple decentralized edge devices (**Federated Learning**). My research has been presented in several conferences and organizations. Please refer to my [CV](https://Kthyeon.github.io/Taehyeon_CV.pdf)!
 
