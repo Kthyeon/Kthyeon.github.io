@@ -3,7 +3,7 @@ layout: post
 title: How to write rebuttals
 subtitle: Rebuttal을 작성하는 방법
 gh-repo: kthyeon/kthyeon.github.io
-gh-badge: [star, fork, follow]
+gh-badge: [follow]
 tags: [Rebuttals, taehyeon Kim, research, paper]
 cover-img: /assets/img/how_to_write_rebuttal.png
 comments: true
