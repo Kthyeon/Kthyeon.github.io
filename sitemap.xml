@@ -1,32 +1,122 @@
----
-layout: null
----
-
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
-        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    <url>
-        <loc>{{ site.url }}{{ post.url }}.html</loc>
-        {% if post.lastmod == null %}
-        <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
-        {% else %}
-        <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
-        {% endif %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-        {% if post.sitemap.changefreq == null %}
-        <changefreq>weekly</changefreq>
-        {% else %}
-        <changefreq>{{ post.sitemap.changefreq }}</changefreq>
-        {% endif %}
 
-        {% if post.sitemap.priority == null %}
-        <priority>0.5</priority>
-        {% else %}
-        <priority>{{ post.sitemap.priority }}</priority>
-        {% endif %}
+<url>
+  <loc>https://kthyeon.github.io/</loc>
+  <lastmod>2021-07-18T04:03:32+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/career/</loc>
+  <lastmod>2021-07-18T04:03:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/publication/</loc>
+  <lastmod>2021-07-18T04:03:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/review/</loc>
+  <lastmod>2021-07-18T04:03:32+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/Taehyeon_CV.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/weight_decay/Weight_decay_KTH.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/dynamic_sparse_reparameterization/presentation.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/Loss_Change_Allocation_for_Neural_Network_Training/20200102_seminar.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/how_sgd_global_minima/0919_presentation.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/comparison_kd/Seminar.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/cnn_orthogonality/CNN_orthogonality.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/Can_We_Gain_More_from_Orthogonality_Regularizations/seminar.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/talk_for_fl/200710_FL_Taehyeon.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/fl_on_the_convergence/Presentation_FL_seminar_0410.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/scalable_bayesian/200904_seminar_TH.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/Multi_armed_Bandits_with_Compensation/seminar.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/Introduction_to_multi_armed_bandit/seminar.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/Introduction_to_multi_armed_bandit/studymaterial/MAB-book.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/Image_classification/seminar.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/Contextual_gaussian_process_bandit_optimization/seminar.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/Asymptotically_Efficient_Allocation_Rules/seminar.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://kthyeon.github.io/reviews/empirical_ts/seminar.pdf</loc>
+  <lastmod>2021-07-18T04:03:19+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
 
-    </url>
-    {% endfor %}
+
 </urlset>
